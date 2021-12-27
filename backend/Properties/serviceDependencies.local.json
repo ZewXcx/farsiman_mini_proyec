@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql.local",
+      "connectionId": "ConnectionStrings:UsuarioContext"
+    },
+    "mssql2": {
+      "type": "mssql.local",
+      "connectionId": "ConnectionStrings:PersonaContext"
+    },
+    "mssql3": {
+      "type": "mssql.local",
+      "connectionId": "ConnectionStrings:EmpleadoContext"
+    },
+    "mssql4": {
+      "type": "mssql.local",
+      "connectionId": "ConnectionStrings:Jefe_TiendaContext"
+    },
+    "mssql5": {
+      "type": "mssql.local",
+      "connectionId": "ConnectionStrings:Reporte_PagoContext"
+    },
+    "mssql6": {
+      "type": "mssql.local",
+      "connectionId": "ConnectionStrings:SucursalContext"
+    },
+    "mssql7": {
+      "type": "mssql.local",
+      "connectionId": "ConnectionStrings:TransportistaContext"
+    },
+    "mssql8": {
+      "type": "mssql.local",
+      "connectionId": "ConnectionStrings:ViajeContext"
+    }
+  }
+}
